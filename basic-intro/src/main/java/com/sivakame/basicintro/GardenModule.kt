@@ -4,8 +4,15 @@ import dagger.Module
 import dagger.Provides
 import javax.inject.Singleton
 
+/*
+@Module indicates class that builds dependencies.
+* */
 @Module
 class GardenModule {
+
+    /*
+    * @Provides provides the objects dependencies.
+    * */
     @Provides
     fun providePlant(): Plant {
         return Plant()
