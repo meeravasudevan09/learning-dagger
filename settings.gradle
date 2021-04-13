@@ -1,3 +1,3 @@
 include ':basic-intro'
-include ':app'
+include ':dagger-android'
 rootProject.name = "learning-dagger"
