@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/basic-intro" />
             <option value="$PROJECT_DIR$/dagger-android" />
+            <option value="$PROJECT_DIR$/dagger2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

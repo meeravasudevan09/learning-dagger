@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
       <module name="learning-dagger.dagger-android" target="1.8" />
+      <module name="learning-dagger.dagger2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
